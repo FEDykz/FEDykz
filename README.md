@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FEDykz
 - 👀 I’m interested in web-design.
-- 🌱 I’m currently learning React.js.
+- 🌱 I’m currently learning frameworks.
 - 💞️ I’m looking to collaborate on web-design.
 - 📫 How to reach me: fedykz@gmail.com.
 - 🐱‍🚀A great desire to become an excellent and sought-after specialist.
